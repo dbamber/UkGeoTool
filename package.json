@@ -1,12 +1,14 @@
 {
    "name": "UkGeoTool",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "description": "Simple package which provides methods to convert between lat/long and easting/northings",
    "author": "David Bamber <dbamber@gmail.com>",
    "keywords": [
        "package",
        "example" 
    ],
+   "main": "./UkGeoTool.js",
+   
    "maintainers": [
        {
            "name": "David bamber",
